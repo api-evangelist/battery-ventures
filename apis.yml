@@ -1,0 +1,100 @@
+aid: battery-ventures
+name: Battery Ventures
+description: >-
+  Battery Ventures is a global, technology-focused investment firm founded in
+  1983 and headquartered in Boston, Massachusetts, with additional offices in
+  San Francisco, Menlo Park, New York, London, and Tel Aviv. Battery invests
+  across every stage of a company's life, from seed and early-stage venture
+  through growth equity and private-equity buyouts, giving the firm a
+  distinctive multi-stage perspective on technology markets. Its core areas of
+  focus are application software, infrastructure software, consumer technology,
+  and industrial tech plus life-science tools. As of 2025 the firm reports
+  having invested in more than 530 companies over its 40-plus-year history, of
+  which roughly 70 have gone public and another 185 have been merged or
+  acquired. Battery is currently investing out of its 15th flagship fund,
+  Battery Ventures XV, capitalized at $3.25 billion, and has raised more than
+  $16 billion across all of its funds since inception. The firm describes itself
+  as decisive, hard-working, and thesis-driven, backing category-defining
+  companies including Affirm, Amplitude, AppDynamics, Avalara, Akamai, Coupa,
+  Wonolo, and many others. This profile tracks Battery Ventures' identity and
+  its portfolio graph across the API Evangelist network.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Seed
+  - Early Stage
+  - Buyout
+  - Application Software
+  - Infrastructure Software
+  - Consumer
+  - Industrial Tech
+  - Life Science Tools
+  - Boston
+  - United States
+  - Global
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/battery-ventures/refs/heads/main/apis.yml
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.battery.com/
+  - type: Portfolio
+    url: https://www.battery.com/company/
+  - type: Portfolio
+    url: https://www.battery.com/list-of-all-companies/
+  - type: Portfolio
+    url: portfolio/battery-ventures-portfolio.yml
+  - type: Team
+    url: https://www.battery.com/people/
+  - type: Team
+    url: team/battery-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://www.battery.com/about/
+  - type: Blog
+    url: https://www.battery.com/blog/
+  - type: News
+    url: https://www.battery.com/news-events/
+  - type: Newsletter
+    url: https://www.battery.com/venture-growth-newsletter/
+  - type: Newsletter
+    url: https://www.battery.com/private-equity-newsletter/
+  - type: Newsletter
+    url: https://www.battery.com/corporate-development-newsletter/
+  - type: Jobs
+    url: https://jobs.battery.com/jobs
+  - type: Contact
+    url: https://www.battery.com/contact/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/battery-ventures/
+  - type: Twitter
+    url: https://twitter.com/batteryventures
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/battery-ventures
+  - type: Features
+    data:
+      - "Stage: Seed, Early (venture), Growth equity, Buyout (all stages)"
+      - "Sectors: application software, infrastructure software, consumer technology, industrial tech, life-science tools"
+      - "Geography: Global (United States, Europe, Israel)"
+      - "AUM: $3.25B current flagship fund (Battery Ventures XV); $16B+ raised since inception (self-reported)"
+      - "Founded: 1983"
+      - "HQ: Boston, MA"
+      - "Offices: Boston, San Francisco, Menlo Park, New York, London, Tel Aviv"
+      - "Track record: 530+ companies invested; ~70 IPOs; ~185 M&A exits (self-reported, 2025)"
+    sources:
+      - https://www.battery.com/about/
+      - https://www.battery.com/
+      - https://en.wikipedia.org/wiki/Battery_Ventures
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Battery Ventures
+    url: https://www.battery.com/
