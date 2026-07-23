@@ -1,0 +1,14 @@
+{
+  "repo": "battery-ventures",
+  "feeds": [
+    {
+      "source": "https://www.battery.com/about/",
+      "feed_url": "https://www.battery.com/feed/",
+      "title": "",
+      "saved": 2,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 2,
+  "fetched": "2026-07-20T13:31:34Z"
+}
