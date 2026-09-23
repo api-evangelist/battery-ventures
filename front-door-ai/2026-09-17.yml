@@ -1,0 +1,27 @@
+# Front Door AI Index — battery-ventures — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: battery-ventures
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.battery.com
+  final_host: www.battery.com
+  ownership: own
+  owner: battery-ventures
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 7
+  host_score: 7
+  density: 6.64
+  words: 1054
+  tiers:
+    agentic: 1
+    core: 6
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 6
+    AI agent: 1
+    agent: 1
