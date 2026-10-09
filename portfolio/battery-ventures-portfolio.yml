@@ -1049,7 +1049,7 @@ companies:
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
-  slug: crb
+  slug: crossriver
   matched_by: name-slug
 - name: CrediFi
   status: unknown
@@ -3884,7 +3884,7 @@ companies:
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
-  slug: spredfast
+  slug: khoros-ai
   matched_by: name-slug
 - name: Sprig
   status: unknown
