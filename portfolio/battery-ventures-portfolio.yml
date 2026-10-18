@@ -3,9 +3,9 @@ method: searched
 source: https://www.battery.com/list-of-all-companies/
 summary:
   portfolio_total: 672
-  in_network: 638
-  api_providers: 113
-  missing: 34
+  in_network: 640
+  api_providers: 112
+  missing: 32
   stubs_created: 0
 companies:
 - name: 1mind AI
@@ -20,7 +20,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: 1worldsync
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.1worldsync.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: 2nd Address
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -40,7 +42,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: 8fig
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.8fig.co/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: '@Stake'
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -54,7 +58,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: a-place-for-mom
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.aplaceformom.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Accelerator Sciences
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -75,7 +81,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: adacore
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.adacore.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Adku
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -117,7 +125,9 @@ companies:
   slug: affirm
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.affirm.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Agari Data
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -186,7 +196,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: alogent
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.alogent.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Alpharel
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -242,7 +254,9 @@ companies:
   slug: amplitude
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.amplitude.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: AMSC
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -256,7 +270,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: analytichem
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.analytichem.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Angie’s List
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -264,6 +280,8 @@ companies:
   is_api_provider: false
   slug: angies-list
   matched_by: name-slug
+  url: http://www.angieslist.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Anobit Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -284,7 +302,9 @@ companies:
   slug: appdynamics
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.appdynamics.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Applimation
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -333,7 +353,9 @@ companies:
   slug: arize-ai
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://arize.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Array US
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -402,7 +424,9 @@ companies:
   slug: avalara
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.avalara.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: AVS
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -423,14 +447,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: axiometrix-solutions
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.axiometrixsolutions.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: B&L Information Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: b-and-l-information-systems
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.blinfo.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Baan
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -472,7 +500,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: bazaarvoice
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.bazaarvoice.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Belong Home
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -493,7 +523,9 @@ companies:
   slug: bigpanda
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.bigpanda.io
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Bionic Stork
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -514,7 +546,9 @@ companies:
   slug: bitwarden
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://bitwarden.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: BladeLogic
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -577,13 +611,17 @@ companies:
   is_api_provider: false
   slug: boost-media
   matched_by: name-slug
+  url: http://www.BoostMedia.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Braze
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: braze
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.braze.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Bridgecrew
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -591,6 +629,8 @@ companies:
   is_api_provider: false
   slug: bridgecrew
   matched_by: name-slug
+  url: https://bridgecrew.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Bright View Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -610,7 +650,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: brightree
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.brightree.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Broadbus Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -666,7 +708,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: cambrio
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.cambrio.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: CardinalOps
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -680,7 +724,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: carnow
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.carnow.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Carta
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -698,9 +744,12 @@ companies:
 - name: Catchpoint Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: catchpoint-systems
+  in_network: true
+  is_api_provider: true
+  url: http://www.catchpoint.com
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: catchpoint
+  matched_by: domain
 - name: Cbeyond Com.
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -721,7 +770,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: cenevo
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.cenevo.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: CenterForce Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -735,7 +786,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: champions-oncology
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.championsoncology.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Check Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -770,6 +823,8 @@ companies:
   is_api_provider: false
   slug: choicevendor
   matched_by: name-slug
+  url: http://www.choicevendor.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Chordiant Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -825,21 +880,27 @@ companies:
   in_network: true
   is_api_provider: false
   slug: clearcare
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.clearcareonline.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Cleerly
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: cleerly
-  matched_by: name-slug
+  matched_by: domain
+  url: https://cleerlyhealth.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: ClickHouse
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: clickhouse
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://clickhouse.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Clubessential
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -853,14 +914,18 @@ companies:
   in_network: true
   is_api_provider: true
   slug: code-ocean
-  matched_by: name-slug
+  matched_by: domain
+  url: https://codeocean.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: CodeSecure
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: codesecure
-  matched_by: name-slug
+  matched_by: domain
+  url: https://codesecure.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Coefficient Works
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -901,14 +966,18 @@ companies:
   slug: collibra
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.collibra.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Compt
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: compt
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.compt.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Concord Communications
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -929,21 +998,27 @@ companies:
   in_network: true
   is_api_provider: false
   slug: concurrent-real-time
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.concurrent-rt.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Confluent
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   slug: confluent
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.confluent.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: conrizon
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: conrizon
-  matched_by: name-slug
+  matched_by: domain
+  url: https://conrizon.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Consona
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -957,14 +1032,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: continuumcloud
-  matched_by: name-slug
+  matched_by: domain
+  url: http://continuumcloud.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Contrast Security
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: contrast-security
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.contrastsecurity.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Convergent Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1021,6 +1100,8 @@ companies:
   is_api_provider: false
   slug: cortera
   matched_by: name-slug
+  url: https://www.cortera.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Coupa Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1033,7 +1114,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: craftview
-  matched_by: name-slug
+  matched_by: domain
+  url: https://craftview.de/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: CRB
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1047,6 +1130,8 @@ companies:
   is_api_provider: false
   slug: credifi
   matched_by: name-slug
+  url: http://www.credifi.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Cross Access
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1074,7 +1159,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: crunchtime
-  matched_by: name-slug
+  matched_by: domain
+  url: https://crunchtime.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Crunchtime Information Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1102,13 +1189,17 @@ companies:
   is_api_provider: false
   slug: cumulus-networks
   matched_by: name-slug
+  url: http://www.cumulusnetworks.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Curve Dental
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: curve-dental
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.curvedental.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: cVidya Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1116,6 +1207,8 @@ companies:
   is_api_provider: false
   slug: cvidya-networks
   matched_by: name-slug
+  url: http://www.cvidya.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Cyneta Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1129,7 +1222,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: cypressio
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.cypress.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Cyren Call
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1150,21 +1245,27 @@ companies:
   in_network: true
   is_api_provider: false
   slug: data-innovations
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.datainnovations.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Databricks
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: databricks
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.databricks.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Dataiku
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: dataiku
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.dataiku.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Datumate
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1192,7 +1293,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: descartes-underwriting
-  matched_by: name-slug
+  matched_by: domain
+  url: https://descartesunderwriting.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Diablo Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1200,13 +1303,17 @@ companies:
   is_api_provider: false
   slug: diablo-technologies
   matched_by: name-slug
+  url: http://www.diablo-technologies.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Diametric Capital
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: diametric-capital
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.diametriccapital.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Digby
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1262,7 +1369,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: domaintools
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.domaintools.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Donnerwood Media
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1290,7 +1399,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: drillinginfo
-  matched_by: name-slug
+  matched_by: domain
+  url: http://info.drillinginfo.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Driveway
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1311,7 +1422,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: earnest
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.earnest.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: EC Cubed
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1361,6 +1474,8 @@ companies:
   is_api_provider: false
   slug: elastifile
   matched_by: name-slug
+  url: http://www.elastifile.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Encore Music Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1381,14 +1496,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: entelo
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.entelo.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Enviance
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
   slug: enviance
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.enviance.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: EnvoyWorldWide
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1402,7 +1521,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: enzo-biochem
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.enzo.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Epic! Creations
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -1441,9 +1562,12 @@ companies:
 - name: ExactTarget
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: exacttarget
+  url: http://www.exacttarget.com
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: exact-target
+  matched_by: domain
 - name: Excelergy
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1506,7 +1630,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: fetcherr
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.fetcherr.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Fibraweb, S.p.a.
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1569,7 +1695,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: flyhomes
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.flyhomes.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Focal Communications
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1597,7 +1725,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: forterro
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.forterro.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Freescale Semiconductor
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1661,13 +1791,17 @@ companies:
   is_api_provider: false
   slug: fungible
   matched_by: name-slug
+  url: http://www.fungible.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Gainsight
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   slug: gainsight
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.gainsight.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Galileo Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1678,30 +1812,39 @@ companies:
 - name: Gen.G
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: geng
+  url: https://geng.gg/
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: gen-g
+  matched_by: domain
 - name: GenLogs
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
   slug: genlogs
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.genlogs.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: GetYourGuide
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
   slug: getyourguide
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.getyourguide.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Glassdoor
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   slug: glassdoor
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.glassdoor.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Gone2
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1721,7 +1864,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: goodfellow
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.goodfellow.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: GreenBytes
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1729,13 +1874,17 @@ companies:
   is_api_provider: false
   slug: greenbytes
   matched_by: name-slug
+  url: http://www.green-bytes.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Groupon
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   slug: groupon
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.groupon.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Grubmarket
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1749,14 +1898,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: guardicore
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.guardicore.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: GuardSquare
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: guardsquare
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.guardsquare.com/en
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Guidewire Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1776,7 +1929,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: habana-labs
-  matched_by: name-slug
+  matched_by: domain
+  url: https://habana.ai/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: HackerRank
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1797,7 +1952,9 @@ companies:
   slug: harness
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://harness.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: HeadSpin
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1845,7 +2002,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: higlobe
-  matched_by: name-slug
+  matched_by: domain
+  url: https://higlobe.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: HNC
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1859,13 +2018,18 @@ companies:
   slug: honeybook
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.honeybook.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: HotelTonight
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hoteltonight
+  url: http://www.hoteltonight.com
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: hotel-tonight
+  matched_by: domain
 - name: Hummingbird RegTech
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1879,14 +2043,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: hush-security
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hush.security/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Hyperexponential
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: hyperexponential
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.hyperexponential.com/us/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: HyperScience
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1932,9 +2100,12 @@ companies:
 - name: Imper.AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: imperai
+  url: https://imper.ai/
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: imper
+  matched_by: domain
 - name: In Focus Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1949,13 +2120,17 @@ companies:
   is_api_provider: false
   slug: industrial-safety-technologies
   matched_by: name-slug
+  url: http://www.industrialsafetytechnologies.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: InfluxData
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
   slug: influxdata
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.influxdata.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Informio
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1997,7 +2172,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: insitu
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.insitu.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: InstaEDU
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -2021,9 +2198,12 @@ companies:
 - name: Intacct
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intacct
+  url: http://www.intacct.com
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: sage-intacct
+  matched_by: domain
 - name: Intellitech
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2044,7 +2224,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: internet-brands
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.internetbrands.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Inventa
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2062,24 +2244,30 @@ companies:
 - name: Istra Research
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: istra-research
-  matched_by: name-slug
+  url: http://www.istraresearch.com
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: istra-research
+  suggested_slug: istraresearch-com
 - name: ITA Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: ita-software
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.itasoftware.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: JAMF
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: jamf
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.jamf.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Jask Labs
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2093,7 +2281,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: jeeng
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.jeeng.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Jelli
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2107,14 +2297,18 @@ companies:
   slug: jfrog
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.jfrog.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Joor
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: joor
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.jooraccess.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Joya Communications
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2127,8 +2321,10 @@ companies:
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
-  slug: jump
-  matched_by: name-slug
+  slug: jump-and-8211-advisor-ai
+  matched_by: domain
+  url: https://jumpapp.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Kanler
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2197,14 +2393,18 @@ companies:
   slug: kustomer
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.kustomer.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Lanes & Planes
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: lanes-and-planes
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.lanes-planes.com/en/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Language Technology
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2246,7 +2446,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: leadspace
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.leadspace.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Learnosity
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2274,14 +2476,18 @@ companies:
   slug: level-ai
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://thelevel.ai/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Levelpath
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: levelpath
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.levelpath.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: LI-COR Intermediate
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2309,7 +2515,9 @@ companies:
   slug: lightbox
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lightboxre.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: LightCyber
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2323,14 +2531,18 @@ companies:
   slug: lindy
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.lindy.ai/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: LinearB
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: linearb
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://linearb.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: LiquidLight
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2344,7 +2556,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: liveintent
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.liveintent.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: LMX Labs
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -2365,7 +2579,9 @@ companies:
   slug: logrocket
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://logrocket.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: London International Financial Futures and Options Exchange
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -2414,7 +2630,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: machinify
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.machinify.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: MadCap Software
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2435,35 +2653,45 @@ companies:
   slug: marketo
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.marketo.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Matillion
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: matillion
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.matillion.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Mattermost
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: mattermost
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://mattermost.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Maxio
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: maxio
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.maxio.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: MaxLinear
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: maxlinear
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.maxlinear.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Maybern Solutions
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2484,7 +2712,9 @@ companies:
   slug: mendix
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.mendix.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Mentor Graphics
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2539,21 +2769,27 @@ companies:
   in_network: true
   is_api_provider: true
   slug: mine
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.saymine.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Minute Media
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: minute-media
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.minutemedia.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Modern Health
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: modern-health
-  matched_by: name-slug
+  matched_by: domain
+  url: http://joinmodernhealth.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Modria.com
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2613,10 +2849,12 @@ companies:
 - name: MX Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  slug: mx-technologies
+  slug: first-horizon
   in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  is_api_provider: false
+  matched_by: domain
+  url: https://www.mx.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Nanoconduction
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2630,7 +2868,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: narrative-science
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.narrativescience.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Narvar
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2652,6 +2892,8 @@ companies:
   is_api_provider: false
   slug: neolane
   matched_by: name-slug
+  url: http://www.neolane.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Neoteris
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2714,21 +2956,27 @@ companies:
   in_network: true
   is_api_provider: true
   slug: newforma
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.newforma.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Nexite
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: nexite
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.nexite.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Next Insurance
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   slug: next-insurance
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.nextinsurance.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Nextel Communications
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -2754,15 +3002,19 @@ companies:
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
-  slug: nitro-software
-  matched_by: name-slug
+  slug: gonitro
+  matched_by: domain
+  url: http://www.gonitro.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Nobl9
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: nobl9
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://nobl9.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Noise & Vibration Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2776,14 +3028,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: normalyze
-  matched_by: name-slug
+  matched_by: domain
+  url: https://normalyze.ai/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: NorthOne
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: northone
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.northone.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Northstar Technology
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2824,7 +3080,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: novidea
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.novidea.com/en-us/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Number26
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2838,14 +3096,18 @@ companies:
   slug: nutanix
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.nutanix.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Obie
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: obie
-  matched_by: name-slug
+  url: https://www.obieinsurance.com/
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: obie
+  suggested_slug: obieinsurance-com
 - name: Octarine Labs
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2859,14 +3121,18 @@ companies:
   slug: olo
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.olo.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Omio
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: omio
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.omio.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Omniture
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -2880,7 +3146,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: onebrief
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.onebrief.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Ontra AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2922,7 +3190,9 @@ companies:
   slug: opsgenie
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.opsgenie.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Optiant
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2943,7 +3213,9 @@ companies:
   slug: optimizely
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.optimizely.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: OptoAtmospherics
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2957,7 +3229,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: ordr
-  matched_by: name-slug
+  matched_by: domain
+  url: http://ordr.net/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Orion Multisystems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2971,7 +3245,9 @@ companies:
   slug: orkes
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://orkes.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Ortec International
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3031,17 +3307,21 @@ companies:
 - name: Panaya
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: panaya
-  matched_by: name-slug
+  url: http://www.panayainc.com
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: panaya
+  suggested_slug: panayainc-com
 - name: Panjiva
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: panjiva
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.panjiva.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Paperspace
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3153,7 +3433,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: plain
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.plain.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Platfora
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3161,6 +3443,8 @@ companies:
   is_api_provider: false
   slug: platfora
   matched_by: name-slug
+  url: http://www.platfora.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Play Versus
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3195,7 +3479,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: plixer
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.plixer.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Pocket Communications Northeast
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3217,6 +3503,8 @@ companies:
   in_network: true
   is_api_provider: true
   matched_by: name-slug
+  url: https://www.postman.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Practice Fusion
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3230,7 +3518,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: precidian-investments
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.precidian.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Predictive Media
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3245,6 +3535,8 @@ companies:
   is_api_provider: false
   slug: primary-data
   matched_by: name-slug
+  url: http://www.primarydata.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Primary Rate
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3258,7 +3550,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: primerevenue
-  matched_by: name-slug
+  matched_by: domain
+  url: https://primerevenue.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Prismatic
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3300,7 +3594,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: procurement-sciences
-  matched_by: name-slug
+  matched_by: domain
+  url: https://procurementsciences.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Prodigy Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -3311,10 +3607,12 @@ companies:
 - name: Proemion
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: proemion
-  matched_by: name-slug
+  url: https://www.vercore.com/
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: proemion
+  suggested_slug: vercore-com
 - name: ProfitLogic
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3336,6 +3634,8 @@ companies:
   is_api_provider: false
   slug: pursway
   matched_by: name-slug
+  url: http://www.pursway.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Q2
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -3353,10 +3653,12 @@ companies:
 - name: Qognify
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: qognify
-  matched_by: name-slug
+  url: https://www.qognify.com/
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: qognify
+  suggested_slug: qognify-com
 - name: QSS
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3384,7 +3686,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: quantum-art
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.quantum-art.tech/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Quantum Leap Packaging
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3404,7 +3708,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: quinyx
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.quinyx.com/en/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: RADNET
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3432,7 +3738,9 @@ companies:
   slug: realpage
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.realpage.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Red Sky Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3444,9 +3752,11 @@ companies:
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
-  slug: redox
-  matched_by: name-slug
+  is_api_provider: true
+  slug: color
+  matched_by: domain
+  url: http://www.redoxengine.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Redstone Communications
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3471,9 +3781,12 @@ companies:
 - name: Reflection AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: reflection-ai
+  url: https://reflection.ai/
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: reflection
+  matched_by: domain
 - name: Reflektion
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3481,6 +3794,8 @@ companies:
   is_api_provider: false
   slug: reflektion
   matched_by: name-slug
+  url: http://www.reflektion.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Reibus International
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3493,7 +3808,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: reify-health
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.reifyhealth.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: RelateIQ
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -3508,27 +3825,35 @@ companies:
   is_api_provider: false
   slug: reliability-won
   matched_by: name-slug
+  url: https://reliabilitywon.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Repeat
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: repeat
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.getrepeat.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: ResourceWise
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: resourcewise
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.resourcewise.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: RetailNext
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: retailnext
-  matched_by: name-slug
+  matched_by: domain
+  url: https://retailnext.net/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Rewardly
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3543,6 +3868,8 @@ companies:
   is_api_provider: false
   slug: riskiq
   matched_by: name-slug
+  url: https://www.riskiq.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: RiverDelta Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3556,7 +3883,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: robotiq
-  matched_by: name-slug
+  matched_by: domain
+  url: https://robotiq.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Rogue Wave Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3564,6 +3893,8 @@ companies:
   is_api_provider: false
   slug: rogue-wave-software
   matched_by: name-slug
+  url: http://www.roguewave.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Ruckus Network
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3584,7 +3915,9 @@ companies:
   slug: sabre
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sabre.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Safety Web
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3612,21 +3945,27 @@ companies:
   in_network: true
   is_api_provider: false
   slug: scodix
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.scodix.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Scopely
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: scopely
-  matched_by: name-slug
+  matched_by: domain
+  url: https://scopely.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Scuba
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: scuba
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.scuba.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Second Front Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3648,6 +3987,8 @@ companies:
   is_api_provider: false
   slug: send-the-trend
   matched_by: name-slug
+  url: http://www.sendthetrend.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SenSage
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3661,34 +4002,45 @@ companies:
   in_network: true
   is_api_provider: false
   slug: sensu
-  matched_by: name-slug
+  matched_by: domain
+  url: https://sensu.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Serena & Lily
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: serena-and-lily
+  url: https://www.serenaandlily.com/
+  x-url-source: battery-ventures company pages (sitemap)
+  slug: serena-lily
+  matched_by: domain
 - name: ServiceTitan
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: servicetitan
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.servicetitan.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Shiftmove
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: true
   slug: shiftmove
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.shiftmove.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Shippeo
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: shippeo
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.shippeo.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Shortcut Software
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3709,14 +4061,18 @@ companies:
   in_network: true
   is_api_provider: true
   slug: signal-ai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://signal-ai.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Signiant
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: signiant
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.signiant.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Sigstr
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -3731,13 +4087,17 @@ companies:
   is_api_provider: false
   slug: singlehop
   matched_by: name-slug
+  url: http://www.singlehop.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SiSense
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: sisense
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sisense.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SiteAware
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3751,7 +4111,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: skullcandy
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.skullcandy.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SkyFoundry
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3773,13 +4135,17 @@ companies:
   is_api_provider: false
   slug: smarterhq
   matched_by: name-slug
+  url: https://smarterhq.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Smartling
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   slug: smartling
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.smartling.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Sociable Labs
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3787,6 +4153,8 @@ companies:
   is_api_provider: false
   slug: sociable-labs
   matched_by: name-slug
+  url: https://www.sociablelabs.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Sockeye Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3800,14 +4168,18 @@ companies:
   in_network: true
   is_api_provider: false
   slug: sofar-sounds
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sofarsounds.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SolarBridge Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: solarbridge-technologies
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.solarbridgetech.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Soldo Software and Services
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3835,7 +4207,9 @@ companies:
   slug: splunk
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.splunk.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Spot Runner
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3876,14 +4250,18 @@ companies:
   slug: sprinklr
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sprinklr.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SPT Labtech
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: spt-labtech
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.sptlabtech.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: St. Bernard Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3911,14 +4289,18 @@ companies:
   in_network: true
   is_api_provider: true
   slug: stockx
-  matched_by: name-slug
+  matched_by: domain
+  url: https://stockx.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Stoke Talent
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: stoke-talent
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.stoketalent.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: StoneEagle F&I
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3961,6 +4343,8 @@ companies:
   is_api_provider: false
   slug: stratoscale
   matched_by: name-slug
+  url: https://www.stratoscale.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Stream Labs
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3974,7 +4358,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: streamsets
-  matched_by: name-slug
+  matched_by: domain
+  url: https://streamsets.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Styra
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3982,6 +4368,8 @@ companies:
   is_api_provider: true
   slug: styra
   matched_by: name-slug
+  url: https://www.styra.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SumAll
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3999,10 +4387,12 @@ companies:
 - name: Sumo Logic
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  slug: sumo-logic
+  slug: sensu
   in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  is_api_provider: false
+  matched_by: domain
+  url: https://www.sumologic.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: SupplierMarket.com
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4051,14 +4441,18 @@ companies:
   slug: tealium
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://tealium.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Tech Soft 3D
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: tech-soft-3d
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.techsoft3d.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Technion Seed
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4099,7 +4493,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: tenzai
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.tenzai.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: The Backplane
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4120,7 +4516,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: theta-lake
-  matched_by: name-slug
+  matched_by: domain
+  url: https://thetalake.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Thundra
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -4141,7 +4539,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: tradeking
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.tradeking.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Trading Machines
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4174,23 +4574,29 @@ companies:
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: true
-  slug: tripcom
-  matched_by: name-slug
+  is_api_provider: false
+  slug: ctrip
+  matched_by: domain
+  url: http://www.trip.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: TrueContext
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: truecontext
-  matched_by: name-slug
+  matched_by: domain
+  url: https://truecontext.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: UBQ Materials
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: ubq-materials
-  matched_by: name-slug
+  matched_by: domain
+  url: http://ubqmaterials.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: UMAMI
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4204,7 +4610,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: unify
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.unifygtm.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Unify AI Business
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -4241,6 +4649,8 @@ companies:
   is_api_provider: false
   slug: upsight
   matched_by: name-slug
+  url: http://www.upsight.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: UserGems
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -4304,6 +4714,8 @@ companies:
   is_api_provider: true
   slug: velaris
   matched_by: name-slug
+  url: https://www.velaris.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Vera Security
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4320,10 +4732,12 @@ companies:
 - name: Vero Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: vero-software
-  matched_by: name-slug
+  url: http://www.vero-software.com
+  x-url-source: battery-ventures company pages (sitemap)
+  x-name-collision: vero-software
+  suggested_slug: vero-software-com
 - name: Vertical Circuits
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4337,7 +4751,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: vertigis
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.vertigis.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Viam
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -4359,13 +4775,17 @@ companies:
   is_api_provider: false
   slug: viddy
   matched_by: name-slug
+  url: http://www.viddy.co
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Vidyard
   status: active
   source: https://www.battery.com/list-of-all-companies/
   slug: vidyard
   in_network: true
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.vidyard.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Viewlocity
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4414,7 +4834,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: vndly
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.vndly.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Voicera
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4436,13 +4858,17 @@ companies:
   is_api_provider: false
   slug: vss-monitoring
   matched_by: name-slug
+  url: 'http://www.vssmonitoring.com '
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Wag!
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: wag
-  matched_by: name-slug
+  matched_by: domain
+  url: https://wagwalking.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Wavii
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4456,7 +4882,9 @@ companies:
   slug: wayfair
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.wayfair.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: WaystoCap
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4470,14 +4898,18 @@ companies:
   slug: weaviate
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://weaviate.io/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: WebPT
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
   is_api_provider: false
   slug: webpt
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.webpt.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Weddington Way
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4526,7 +4958,9 @@ companies:
   slug: workato
   in_network: true
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.workato.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Worksmith
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4540,7 +4974,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: workwell-technologies
-  matched_by: name-slug
+  matched_by: domain
+  url: https://workwelltech.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: World Golf Tour
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4568,7 +5004,9 @@ companies:
   in_network: true
   is_api_provider: true
   slug: wunderkind
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.wunderkind.co/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: XCOM
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4610,7 +5048,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: xsight-labs
-  matched_by: name-slug
+  matched_by: domain
+  url: http://xsightlabs.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: XtremIO
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4638,7 +5078,9 @@ companies:
   in_network: true
   is_api_provider: false
   slug: yesware
-  matched_by: name-slug
+  matched_by: domain
+  url: http://yesware.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Zayo
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -4653,6 +5095,8 @@ companies:
   is_api_provider: false
   slug: zeitgold
   matched_by: name-slug
+  url: https://www.zeitgold.com/
+  x-url-source: battery-ventures company pages (sitemap)
 - name: Zenverge
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4667,6 +5111,8 @@ companies:
   is_api_provider: false
   slug: zerog-wireless
   matched_by: name-slug
+  url: http://www.zerogwireless.com
+  x-url-source: battery-ventures company pages (sitemap)
 - name: ZeroTier
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -4680,4 +5126,6 @@ companies:
   in_network: true
   is_api_provider: false
   slug: zerto
-  matched_by: name-slug
+  matched_by: domain
+  url: http://www.zerto.com
+  x-url-source: battery-ventures company pages (sitemap)

@@ -44,13 +44,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Catchpoint Systems
-  url: ''
-  suggested_slug: catchpoint-systems
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Check Technologies
   url: ''
   suggested_slug: check-technologies
@@ -86,13 +79,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: ExactTarget
-  url: ''
-  suggested_slug: exacttarget
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Flash App
   url: ''
   suggested_slug: flash-app
@@ -101,13 +87,6 @@ leads:
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
   no_stub: delisted
-- name: Gen.G
-  url: ''
-  suggested_slug: geng
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Gong I.O
   url: ''
   suggested_slug: gong-io
@@ -129,20 +108,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: HotelTonight
-  url: ''
-  suggested_slug: hoteltonight
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Imper.AI
-  url: ''
-  suggested_slug: imperai
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Institut für Produktqualität
   url: ''
   suggested_slug: institut-fur-produktqualitat
@@ -150,9 +115,9 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Intacct
-  url: ''
-  suggested_slug: intacct
+- name: Istra Research
+  url: http://www.istraresearch.com
+  suggested_slug: istraresearch-com
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
@@ -185,6 +150,34 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
+- name: Obie
+  url: https://www.obieinsurance.com/
+  suggested_slug: obieinsurance-com
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
+- name: Panaya
+  url: http://www.panayainc.com
+  suggested_slug: panayainc-com
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
+- name: Proemion
+  url: https://www.vercore.com/
+  suggested_slug: vercore-com
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
+- name: Qognify
+  url: https://www.qognify.com/
+  suggested_slug: qognify-com
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
 - name: Quintessent Communications
   url: ''
   suggested_slug: quintessent-communications
@@ -192,23 +185,9 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Reflection AI
-  url: ''
-  suggested_slug: reflection-ai
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Reibus International
   url: ''
   suggested_slug: reibus-international
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Serena & Lily
-  url: ''
-  suggested_slug: serena-and-lily
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
@@ -237,6 +216,13 @@ leads:
 - name: Vera Security
   url: ''
   suggested_slug: vera-security
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
+- name: Vero Software
+  url: http://www.vero-software.com
+  suggested_slug: vero-software-com
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
