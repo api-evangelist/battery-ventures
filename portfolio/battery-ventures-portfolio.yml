@@ -3,9 +3,9 @@ method: searched
 source: https://www.battery.com/list-of-all-companies/
 summary:
   portfolio_total: 672
-  in_network: 639
-  api_providers: 113
-  missing: 33
+  in_network: 644
+  api_providers: 117
+  missing: 28
   stubs_created: 0
 companies:
 - name: 1mind AI
@@ -34,9 +34,12 @@ companies:
 - name: 6Sense Insights
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: 6sense-insights
+  in_network: true
+  is_api_provider: true
+  url: https://6sense.com
+  x-url-source: web search 2026-10-18
+  slug: 6sense
+  matched_by: domain
 - name: 8fig
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -53,8 +56,8 @@ companies:
   is_api_provider: false
   url: https://stake.rent/
   x-url-source: network-repo (title-verified 2026-10-18)
-  x-name-collision: stake
   suggested_slug: stake-rent
+  x-name-collision: stake
 - name: A Place for Mom
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -164,9 +167,12 @@ companies:
 - name: Akamai Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: akamai-technologies
+  in_network: true
+  is_api_provider: true
+  url: https://www.akamai.com
+  x-url-source: web search 2026-10-18
+  slug: akamai
+  matched_by: domain
 - name: Akara
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1009,9 +1015,12 @@ companies:
 - name: Cohesity Global
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cohesity-global
+  in_network: true
+  is_api_provider: true
+  url: https://www.cohesity.com
+  x-url-source: web search 2026-10-18
+  slug: cohesity
+  matched_by: domain
 - name: Coinbase Global
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1772,6 +1781,8 @@ companies:
   is_api_provider: false
   x-no-stub: delisted
   suggested_slug: flash-app
+  url: https://www.flashapp.com.br
+  x-url-source: web search 2026-10-18
 - name: FlowWise Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1957,9 +1968,12 @@ companies:
 - name: Gong I.O
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: gong-io
+  in_network: true
+  is_api_provider: true
+  url: https://www.gong.io
+  x-url-source: web search 2026-10-18
+  slug: gong
+  matched_by: domain
 - name: Goodfellow
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -4702,9 +4716,12 @@ companies:
 - name: Tejas Networks India
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tejas-networks-india
+  url: https://www.tejasnetworks.com
+  x-url-source: web search 2026-10-18
+  slug: tejas-networks
+  matched_by: domain
 - name: Telecom Transport Management
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4962,6 +4979,8 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: vera-security
+  url: https://www.digitalguardian.com/products/secure-collaboration
+  x-url-source: web search 2026-10-18
 - name: Veraz Networks
   status: ipo
   source: https://www.battery.com/list-of-all-companies/

@@ -9,23 +9,9 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: 6Sense Insights
-  url: ''
-  suggested_slug: 6sense-insights
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: '@Stake'
   url: https://stake.rent/
   suggested_slug: stake-rent
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Akamai Technologies
-  url: ''
-  suggested_slug: akamai-technologies
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
@@ -58,13 +44,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Cohesity Global
-  url: ''
-  suggested_slug: cohesity-global
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Coupa Software
   url: ''
   suggested_slug: coupa-software
@@ -87,20 +66,13 @@ leads:
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
 - name: Flash App
-  url: ''
+  url: https://www.flashapp.com.br
   suggested_slug: flash-app
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
   no_stub: delisted
-- name: Gong I.O
-  url: ''
-  suggested_slug: gong-io
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Guidewire Software
   url: ''
   suggested_slug: guidewire-software
@@ -206,13 +178,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Tejas Networks India
-  url: ''
-  suggested_slug: tejas-networks-india
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: UpKeep Technologies
   url: ''
   suggested_slug: upkeep-technologies
@@ -221,7 +186,7 @@ leads:
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
 - name: Vera Security
-  url: ''
+  url: https://www.digitalguardian.com/products/secure-collaboration
   suggested_slug: vera-security
   sector: ''
   source_vc: battery-ventures
