@@ -16,6 +16,13 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
+- name: '@Stake'
+  url: https://stake.rent/
+  suggested_slug: stake-rent
+  sector: ''
+  source_vc: battery-ventures
+  source: https://www.battery.com/list-of-all-companies/
+  stub_created: false
 - name: Akamai Technologies
   url: ''
   suggested_slug: akamai-technologies
