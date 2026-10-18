@@ -3,18 +3,20 @@ method: searched
 source: https://www.battery.com/list-of-all-companies/
 summary:
   portfolio_total: 672
-  in_network: 644
-  api_providers: 117
-  missing: 28
+  in_network: 654
+  api_providers: 122
+  missing: 18
   stubs_created: 0
 companies:
 - name: 1mind AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 1mind-ai
-  x-url-candidate: https://www.1mind.com/
+  url: https://www.1mind.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: 1mind
+  matched_by: domain
 - name: 1WorldSync
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -690,10 +692,12 @@ companies:
 - name: BrightEdge Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: brightedge-technologies
-  x-url-candidate: https://www.brightedge.com/
+  in_network: true
+  is_api_provider: true
+  url: https://www.brightedge.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: brightedge
+  matched_by: domain
 - name: Brightree
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1178,10 +1182,12 @@ companies:
 - name: Coupa Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coupa-software
-  x-url-candidate: https://www.coupa.com/
+  in_network: true
+  is_api_provider: true
+  url: https://www.coupa.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: coupa
+  matched_by: domain
 - name: Craftview
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1246,10 +1252,12 @@ companies:
 - name: Cube Planning
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: cube-planning
-  x-url-candidate: https://www.cubeplanning.com/
+  in_network: true
+  is_api_provider: true
+  url: https://www.cubesoftware.com
+  x-url-source: web check 2026-10-18 (replaced)
+  slug: cubesoftware
+  matched_by: domain
 - name: Cullinet Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2030,10 +2038,12 @@ companies:
 - name: Guidewire Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: guidewire-software
-  x-url-candidate: https://www.guidewire.com/
+  in_network: true
+  is_api_provider: true
+  url: https://www.guidewire.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: guidewire
+  matched_by: domain
 - name: Guild Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2107,10 +2117,12 @@ companies:
 - name: Hi Bob
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hi-bob
-  x-url-candidate: https://www.hibob.com/
+  url: https://www.hibob.com/
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: astropay
+  matched_by: domain
 - name: High Jump Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2498,10 +2510,12 @@ companies:
 - name: Kodiak AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kodiak-ai
-  x-url-candidate: https://kodiak.com
+  url: https://kodiak.ai
+  x-url-source: web check 2026-10-18 (replaced)
+  slug: kodiak
+  matched_by: domain
 - name: Koi Security
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2895,10 +2909,12 @@ companies:
 - name: Mews Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mews-systems
-  x-url-candidate: https://www.mews.com/en
+  url: https://www.mews.com/en
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: bizzon
+  matched_by: domain
 - name: Mformation Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3157,10 +3173,12 @@ companies:
 - name: Nexthop Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nexthop-systems
-  x-url-candidate: https://nexthop.ai
+  url: https://nexthop.ai
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: nexthop-ai
+  matched_by: domain
 - name: Niantic
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -4891,12 +4909,14 @@ companies:
 - name: UpKeep Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: false
-  is_api_provider: false
+  in_network: true
+  is_api_provider: true
   match_evidence: upkeep.com terms-of-service and privacy-policy identify the operator as "UpKeep Technologies,
     Inc."
-  suggested_slug: upkeep-technologies
-  x-url-candidate: https://upkeep.com
+  url: https://upkeep.com
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: upkeep
+  matched_by: domain
 - name: Upsight
   status: unknown
   source: https://www.battery.com/list-of-all-companies/

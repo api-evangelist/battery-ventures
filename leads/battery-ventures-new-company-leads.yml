@@ -2,13 +2,6 @@ generated: '2026-10-18'
 method: derived
 source_vc: battery-ventures
 leads:
-- name: 1mind AI
-  url: ''
-  suggested_slug: 1mind-ai
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: '@Stake'
   url: https://stake.rent/
   suggested_slug: stake-rent
@@ -30,13 +23,6 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: BrightEdge Technologies
-  url: ''
-  suggested_slug: brightedge-technologies
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Check Technologies
   url: ''
   suggested_slug: check-technologies
@@ -44,23 +30,9 @@ leads:
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
-- name: Coupa Software
-  url: ''
-  suggested_slug: coupa-software
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: CRB
   url: ''
   suggested_slug: crb
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Cube Planning
-  url: ''
-  suggested_slug: cube-planning
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
@@ -73,20 +45,6 @@ leads:
   source: https://www.battery.com/list-of-all-companies/
   stub_created: false
   no_stub: delisted
-- name: Guidewire Software
-  url: ''
-  suggested_slug: guidewire-software
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Hi Bob
-  url: ''
-  suggested_slug: hi-bob
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
 - name: Institut für Produktqualität
   url: ''
   suggested_slug: institut-fur-produktqualitat
@@ -97,27 +55,6 @@ leads:
 - name: Istra Research
   url: http://www.istraresearch.com
   suggested_slug: istraresearch-com
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Kodiak AI
-  url: ''
-  suggested_slug: kodiak-ai
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Mews Systems
-  url: ''
-  suggested_slug: mews-systems
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: Nexthop Systems
-  url: ''
-  suggested_slug: nexthop-systems
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
@@ -174,13 +111,6 @@ leads:
 - name: Spredfast
   url: ''
   suggested_slug: spredfast
-  sector: ''
-  source_vc: battery-ventures
-  source: https://www.battery.com/list-of-all-companies/
-  stub_created: false
-- name: UpKeep Technologies
-  url: ''
-  suggested_slug: upkeep-technologies
   sector: ''
   source_vc: battery-ventures
   source: https://www.battery.com/list-of-all-companies/
