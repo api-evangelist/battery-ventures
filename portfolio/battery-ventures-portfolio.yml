@@ -3,18 +3,17 @@ method: searched
 source: https://www.battery.com/list-of-all-companies/
 summary:
   portfolio_total: 672
-  in_network: 672
-  api_providers: 108
-  missing: 0
+  in_network: 638
+  api_providers: 113
+  missing: 34
   stubs_created: 0
 companies:
 - name: 1mind AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: 1mind-ai
-  matched_by: name-slug
+  suggested_slug: 1mind-ai
 - name: 1WorldSync
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -32,10 +31,9 @@ companies:
 - name: 6Sense Insights
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: 6sense-insights
-  matched_by: name-slug
+  suggested_slug: 6sense-insights
 - name: 8fig
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -151,10 +149,9 @@ companies:
 - name: Akamai Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  slug: akamai-technologies
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: akamai-technologies
 - name: Akara
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -340,10 +337,9 @@ companies:
 - name: Array US
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: array-us
-  matched_by: name-slug
+  suggested_slug: array-us
 - name: AscendantFX Capital
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -446,7 +442,7 @@ companies:
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: banyan-systems
   matched_by: name-slug
 - name: Barneyscan
@@ -557,10 +553,9 @@ companies:
 - name: Blue Kai
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: blue-kai
-  matched_by: name-slug
+  suggested_slug: blue-kai
 - name: Bluestem Brands
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -606,10 +601,9 @@ companies:
 - name: BrightEdge Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
-  is_api_provider: true
-  slug: brightedge-technologies
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: brightedge-technologies
 - name: Brightree
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -704,10 +698,9 @@ companies:
 - name: Catchpoint Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
-  is_api_provider: true
-  slug: catchpoint-systems
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: catchpoint-systems
 - name: Cbeyond Com.
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -746,10 +739,9 @@ companies:
 - name: Check Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: check-technologies
-  matched_by: name-slug
+  suggested_slug: check-technologies
 - name: Chef Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -893,10 +885,9 @@ companies:
 - name: Cohesity Global
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: cohesity-global
-  matched_by: name-slug
+  suggested_slug: cohesity-global
 - name: Coinbase Global
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
@@ -1033,10 +1024,9 @@ companies:
 - name: Coupa Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: coupa-software
-  matched_by: name-slug
+  suggested_slug: coupa-software
 - name: Craftview
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1047,10 +1037,9 @@ companies:
 - name: CRB
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: crossriver
-  matched_by: name-slug
+  suggested_slug: crb
 - name: CrediFi
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1083,23 +1072,22 @@ companies:
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: crunchtime
   matched_by: name-slug
 - name: Crunchtime Information Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: crunchtime-information-systems
   matched_by: name-slug
 - name: Cube Planning
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
-  is_api_provider: true
-  slug: cube-planning
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cube-planning
 - name: Cullinet Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1453,10 +1441,9 @@ companies:
 - name: ExactTarget
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: exacttarget
-  matched_by: name-slug
+  suggested_slug: exacttarget
 - name: Excelergy
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1565,10 +1552,10 @@ companies:
 - name: Flash App
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
-  is_api_provider: true
-  slug: flash-app
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-no-stub: delisted
+  suggested_slug: flash-app
 - name: FlowWise Networks
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1622,7 +1609,7 @@ companies:
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: freewheel-media
   matched_by: name-slug
 - name: FreshDish
@@ -1643,7 +1630,7 @@ companies:
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: frontapp
   matched_by: name-slug
 - name: Fulcrumpro
@@ -1691,10 +1678,9 @@ companies:
 - name: Gen.G
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: geng
-  matched_by: name-slug
+  suggested_slug: geng
 - name: GenLogs
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1726,10 +1712,9 @@ companies:
 - name: Gong I.O
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  slug: gong-io
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: gong-io
 - name: Goodfellow
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1775,10 +1760,9 @@ companies:
 - name: Guidewire Software
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: guidewire-software
-  matched_by: name-slug
+  suggested_slug: guidewire-software
 - name: Guild Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1838,10 +1822,9 @@ companies:
 - name: Hi Bob
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: hi-bob
-  matched_by: name-slug
+  suggested_slug: hi-bob
 - name: High Jump Software
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -1880,10 +1863,9 @@ companies:
 - name: HotelTonight
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: hoteltonight
-  matched_by: name-slug
+  suggested_slug: hoteltonight
 - name: Hummingbird RegTech
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -1950,10 +1932,9 @@ companies:
 - name: Imper.AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: imperai
-  matched_by: name-slug
+  suggested_slug: imperai
 - name: In Focus Systems
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2027,10 +2008,9 @@ companies:
 - name: Institut für Produktqualität
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: institut-f-r-produktqualit-t
-  matched_by: name-slug
+  suggested_slug: institut-fur-produktqualitat
 - name: InStream
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2041,10 +2021,9 @@ companies:
 - name: Intacct
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: intacct
-  matched_by: name-slug
+  suggested_slug: intacct
 - name: Intellitech
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2112,7 +2091,7 @@ companies:
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: jeeng
   matched_by: name-slug
 - name: Jelli
@@ -2181,10 +2160,9 @@ companies:
 - name: Kodiak AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: kodiak-ai
-  matched_by: name-slug
+  suggested_slug: kodiak-ai
 - name: Koi Security
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2330,7 +2308,7 @@ companies:
   source: https://www.battery.com/list-of-all-companies/
   slug: lightbox
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   matched_by: name-slug
 - name: LightCyber
   status: unknown
@@ -2364,7 +2342,7 @@ companies:
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: liveintent
   matched_by: name-slug
 - name: LMX Labs
@@ -2531,10 +2509,9 @@ companies:
 - name: Mews Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  slug: mews-systems
-  in_network: true
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: mews-systems
 - name: Mformation Technologies
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -2762,10 +2739,9 @@ companies:
 - name: Nexthop Systems
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: nexthop-systems
-  matched_by: name-slug
+  suggested_slug: nexthop-systems
 - name: Niantic
   status: acquired
   source: https://www.battery.com/list-of-all-companies/
@@ -2825,10 +2801,9 @@ companies:
 - name: Nova Instruments
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: nova-instruments
-  matched_by: name-slug
+  suggested_slug: nova-instruments
 - name: Nova Metrix
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -2917,7 +2892,7 @@ companies:
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: opal
   matched_by: name-slug
 - name: Open Port Technology
@@ -3085,7 +3060,7 @@ companies:
   status: active
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: paystand
   matched_by: name-slug
 - name: Pedestal
@@ -3365,7 +3340,7 @@ companies:
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
   in_network: true
-  is_api_provider: false
+  is_api_provider: true
   slug: q2
   matched_by: name-slug
 - name: QM Technologies
@@ -3420,10 +3395,9 @@ companies:
 - name: Quintessent Communications
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: quintessent-communications
-  matched_by: name-slug
+  suggested_slug: quintessent-communications
 - name: Quinyx
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3497,10 +3471,9 @@ companies:
 - name: Reflection AI
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: reflection-ai
-  matched_by: name-slug
+  suggested_slug: reflection-ai
 - name: Reflektion
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -3511,10 +3484,9 @@ companies:
 - name: Reibus International
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: reibus-international
-  matched_by: name-slug
+  suggested_slug: reibus-international
 - name: Reify Health
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3693,10 +3665,9 @@ companies:
 - name: Serena & Lily
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: serena-and-lily
-  matched_by: name-slug
+  suggested_slug: serena-and-lily
 - name: ServiceTitan
   status: active
   source: https://www.battery.com/list-of-all-companies/
@@ -3882,10 +3853,9 @@ companies:
 - name: Spredfast
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: khoros-ai
-  matched_by: name-slug
+  suggested_slug: spredfast
 - name: Sprig
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4106,10 +4076,9 @@ companies:
 - name: Tejas Networks India
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: tejas-networks-india
-  matched_by: name-slug
+  suggested_slug: tejas-networks-india
 - name: Telecom Transport Management
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4260,12 +4229,11 @@ companies:
 - name: UpKeep Technologies
   status: active
   source: https://www.battery.com/list-of-all-companies/
-  slug: upkeep-technologies
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
   match_evidence: upkeep.com terms-of-service and privacy-policy identify the operator as "UpKeep Technologies,
     Inc."
+  suggested_slug: upkeep-technologies
 - name: Upsight
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
@@ -4339,10 +4307,9 @@ companies:
 - name: Vera Security
   status: unknown
   source: https://www.battery.com/list-of-all-companies/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: vera-security
-  matched_by: name-slug
+  suggested_slug: vera-security
 - name: Veraz Networks
   status: ipo
   source: https://www.battery.com/list-of-all-companies/
